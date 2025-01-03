@@ -1,19 +1,43 @@
-**RocketBot Bundler**  https://t.me/rocketsolanabot
+# 🚀 RocketBot Bundler
+[Join RocketBot on Telegram](https://t.me/rocketsolanabot)
 
-🚀 Introducing the RocketBot Bundler – the ultimate open-source tool for efficient bundling on Pump.Fun, with advanced profile creation and anti-bubble maps!  
+Welcome to **RocketBot Bundler**, the ultimate open-source tool designed for efficient bundling on **Pump.Fun**! With advanced profile creation and anti-bubble maps, RocketBot ensures your launches are smooth, secure, and completely bubble map-proof.
 
-This free and open-source solution provides the most effective self-bundling script for Pump.Fun, allowing you to launch a token using 50 different wallets and profiles.  
+This free and open-source tool provides the most effective self-bundling script, enabling you to launch a token with **50 different wallets and profiles**.
 
-Enjoy seamless launches that are completely immune to bubble maps and anti-Photon SB marks.   
+Enjoy seamless launches that are immune to bubble maps and **anti-Photon SB marks**.
 
-**Key Features**  
-- **User-Friendly Interface**: A simple, fully automated UI designed for easy use and efficiency.  
-- **Advanced Profile Creation**: Automatically generate random profiles for each wallet, ensuring maximum authenticity, with each wallet holding different random tokens.  
-- **Customizable Buyers**: Configure up to 50 keypair buyers for personalized launch strategies.  
-- **Exceptional Performance**: Enjoy unmatched stability, speed, and performance.   
+---
 
-https://imgur.com/5n8aWef
+### Key Features
 
-https://imgur.com/a/mLkglrq
+- **💻 User-Friendly Interface**  
+  A simple, fully automated UI designed for easy use and efficiency.
 
-https://imgur.com/DcNxWos
+- **🧑 Advanced Profile Creation**  
+  Automatically generate random profiles for each wallet to ensure maximum authenticity, with each wallet holding different random tokens.
+
+- **🔑 Customizable Buyers**  
+  Configure up to **50 keypair buyers** for personalized launch strategies.
+
+- **⚡ Exceptional Performance**  
+  Enjoy unmatched stability, speed, and performance.
+
+---
+
+### Screenshots
+
+![RocketBot UI](https://imgur.com/5n8aWef)
+
+View more screenshots:  
+[Gallery 1](https://imgur.com/a/mLkglrq)  
+[Gallery 2](https://imgur.com/DcNxWos)
+
+---
+
+### 🚀 Get Started
+
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/your-repo/rocketbot-bundler.git
+
