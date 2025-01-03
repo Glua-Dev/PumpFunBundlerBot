@@ -1,28 +1,42 @@
 # 🚀 RocketBot Bundler
+[Join RocketBot on Telegram](https://t.me/rocketsolanabot)
 
-RocketBot Bundler is an open-source tool for efficient bundling on Pump.Fun, designed to simplify token launches using advanced profile creation and anti-bubble maps. This free solution enables you to launch a token with **50 different wallets and profiles** while ensuring your launch is immune to bubble maps and anti-Photon SB marks.
+Welcome to **RocketBot Bundler**, the ultimate open-source tool designed for efficient bundling on **Pump.Fun**! With advanced profile creation and anti-bubble maps, RocketBot ensures your launches are smooth, secure, and completely bubble map-proof.
 
-## Getting Started
+This free and open-source tool provides the most effective self-bundling script, enabling you to launch a token with **50 different wallets and profiles**.
 
-These instructions will guide you in getting RocketBot Bundler up and running on your local machine for development and testing purposes. Follow the deployment section for notes on how to deploy the project on a live system.
+Enjoy seamless launches that are immune to bubble maps and **anti-Photon SB marks**.
 
-### Prerequisites
+---
 
-Before you begin, make sure you have the following installed on your system:
+### Key Features
 
-- **Node.js** (for running the script)
-- **Git** (for cloning the repository)
+- **💻 [User-Friendly Interface](https://github.com/your-repo/rocketbot-bundler#user-friendly-interface)**  
+  A simple, fully automated UI designed for easy use and efficiency.
 
-To install Node.js, follow the instructions here:  
-[Node.js Installation](https://nodejs.org/)
+- **🧑 [Advanced Profile Creation](https://github.com/your-repo/rocketbot-bundler#advanced-profile-creation)**  
+  Automatically generate random profiles for each wallet to ensure maximum authenticity, with each wallet holding different random tokens.
 
-For Git installation, follow here:  
-[Git Installation](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- **🔑 [Customizable Buyers](https://github.com/your-repo/rocketbot-bundler#customizable-buyers)**  
+  Configure up to **50 keypair buyers** for personalized launch strategies.
 
-### Installing
+- **⚡ [Exceptional Performance](https://github.com/your-repo/rocketbot-bundler#exceptional-performance)**  
+  Enjoy unmatched stability, speed, and performance.
 
-1. **Clone the Repository**
+---
 
-   Clone the RocketBot Bundler repository to your local machine:
+### Screenshots
+
+![RocketBot UI](https://imgur.com/5n8aWef)
+
+View more screenshots:  
+[Gallery 1](https://imgur.com/a/mLkglrq)  
+[Gallery 2](https://imgur.com/DcNxWos)
+
+---
+
+### 🚀 Get Started
+
+1. **Clone the Repository**  
    ```bash
    git clone https://github.com/your-repo/rocketbot-bundler.git
