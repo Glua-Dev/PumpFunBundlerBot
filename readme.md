@@ -24,19 +24,3 @@ Enjoy seamless launches that are immune to bubble maps and **anti-Photon SB mark
   Enjoy unmatched stability, speed, and performance.
 
 ---
-
-### Screenshots
-
-![RocketBot UI](https://imgur.com/5n8aWef)
-
-View more screenshots:  
-[Gallery 1](https://imgur.com/a/mLkglrq)  
-[Gallery 2](https://imgur.com/DcNxWos)
-
----
-
-### 🚀 Get Started
-
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/your-repo/rocketbot-bundler.git
